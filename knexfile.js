@@ -8,7 +8,7 @@ module.exports = {
     connection: {
       database: 'knex_test',
       user: 'postgres',
-      password: '25081997' //Need to change this password...
+      password: '1234'
     },
 
     // Run npx knex migrate:make create_table_users (example) 
